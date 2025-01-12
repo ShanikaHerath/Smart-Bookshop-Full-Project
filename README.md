@@ -1,2 +1,1 @@
-# -Smart-Bookshop-Full-Project
-Web Application + POS system
+Smart-Bookshop-Full-Project POS
